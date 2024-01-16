@@ -27,6 +27,10 @@ article {
     margin: 10px; 
 }
 
+article h3 {
+    padding-left: 20px;
+}
+
 section {
     display: flex; 
     justify-content: flex-start;
